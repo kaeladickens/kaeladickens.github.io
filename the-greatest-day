@@ -9,5 +9,9 @@
     <p>This is some stuff. Totes random.</p>
     <p>More stuff coming your way.</p>
     <h2>This is a heading 2.</h2>
+    
+    <ul>
+      <li>This is the first thing.</li>
+     </ul>
   </body>
 </html>
