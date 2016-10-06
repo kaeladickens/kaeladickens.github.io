@@ -1,15 +1,14 @@
 body {
   font-family: Tahoma, sans-serif;
-  color: #4d92f9;
 }
 
 h1 {
+  color: #4d92f9;
   border: 2px solid black;
   padding: 10px;
   margin: 30px;
 }
 
 p {
-  color: black;
   border: 1px solid green;
 }
