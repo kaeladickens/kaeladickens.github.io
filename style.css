@@ -1,13 +1,16 @@
 body {
   font-family: Tahoma, sans-serif;
   color: #f7d651;
-  background-color: peachpuff;
 }
 
 h1 {
   color: blue
+  border: 2px solid black;
+  padding: 10px;
+  margin: 30px;
 }
 
 p {
   color: purple;
+  border: 1px solid green;
 }
