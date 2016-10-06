@@ -10,7 +10,7 @@ h1 {
 }
 
 div {
-  width: 30;
+  width: 300px;
   border: 1px dashed orange;
   background-color: #ccc;
 }
